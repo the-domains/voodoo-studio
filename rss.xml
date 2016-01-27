@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[opnamestudio ~ live sound]]></title>
         <description><![CDATA[opnamestudio ~ live sound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/voodoo-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 19:09:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 19:12:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/voodoo-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48cff687-838a-4085-a7e7-a98ceba42c70.jpg">]]></description>
+            <link>https://thegrid.ai/voodoo-studio/43edeb94-8fd2-4715-b614-5195f39d3543/index.html</link>
+            <guid isPermaLink="false">43edeb94-8fd2-4715-b614-5195f39d3543</guid>
+            <pubDate>Wed, 27 Jan 2016 19:12:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>.recording</p>]]></description>
-            <link>undefinedfa016983-68bf-4b0c-bb13-af255c811c2e/index.html</link>
+            <link>https://thegrid.ai/voodoo-studio/fa016983-68bf-4b0c-bb13-af255c811c2e/index.html</link>
             <guid isPermaLink="false">fa016983-68bf-4b0c-bb13-af255c811c2e</guid>
             <pubDate>Wed, 27 Jan 2016 19:09:33 GMT</pubDate>
         </item>
