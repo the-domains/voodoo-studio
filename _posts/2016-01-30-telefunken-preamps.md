@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T08:25:55.273Z'
-dateModified: '2016-02-01T08:25:52.380Z'
+datePublished: '2016-02-01T08:37:52.460Z'
+dateModified: '2016-02-01T08:37:38.818Z'
 author: []
 title: Telefunken preamps
 sourcePath: _posts/2016-01-30-telefunken-preamps.md
@@ -23,5 +23,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Telefunken preamps
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e230ae1d8a7229c12063a065b6e1315abe31e4e.png)
+
+# Telefunken preamps
