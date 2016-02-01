@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T17:59:27.975Z'
+datePublished: '2016-02-01T17:59:27.973Z'
 dateModified: '2016-02-01T17:59:25.269Z'
 author: []
 title: Telefunken preamps
