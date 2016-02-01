@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T17:57:53.365Z'
-dateModified: '2016-02-01T17:53:12.016Z'
+datePublished: '2016-02-01T19:25:38.961Z'
+dateModified: '2016-02-01T19:25:36.194Z'
 author: []
 title: 'Avalon & audient preamps'
 sourcePath: _posts/2016-01-30-avalon-and-audient-preamps.md
@@ -23,5 +23,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-* Avalon & audient preamps
+Avalon & audient preamps
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa92755-3833-422c-a0de-4157879bf743.png)
