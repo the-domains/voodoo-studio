@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T05:10:34.839Z'
-dateModified: '2016-02-02T05:10:26.734Z'
+datePublished: '2016-02-16T21:12:36.556Z'
+dateModified: '2016-02-16T21:09:49.568Z'
 author: []
 title: Telefunken preamps
 sourcePath: _posts/2016-01-30-telefunken-preamps.md
@@ -25,4 +25,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e230ae1d8a7229c12063a065b6e1315abe31e4e.png)
 
-Telefunken preamps
+vintage Telefunken V376 en V72 tube preamps
