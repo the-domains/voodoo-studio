@@ -4,7 +4,7 @@
         <description><![CDATA[Voodoo Studio ~ opnamestudio ~ live sound]]></description>
         <link>https://thegrid.ai/voodoo-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 00:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 17:34:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/voodoo-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/voodoo-studio/7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26/index.html</link>
             <guid isPermaLink="false">7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26</guid>
             <pubDate>Tue, 16 Feb 2016 21:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa611f0e-7af0-4342-a0be-12b8dab29e7c.jpg">]]></description>
+            <link>https://thegrid.ai/voodoo-studio/1bc65634-ee23-4c06-bbc7-6c7e2e546516/index.html</link>
+            <guid isPermaLink="false">1bc65634-ee23-4c06-bbc7-6c7e2e546516</guid>
+            <pubDate>Sun, 13 Mar 2016 17:34:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eyemèr 2016]]></title>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Avalon & audient preamps]]></title>
-            <description><![CDATA[<article><h1>Avalon & audient preamps</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b77313c4e445d79840d8787d2753ca69dcca906e.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Avalon & audient preamps</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3433396a1297f3ff89d3642b84531064eb064e.png"></article>]]></description>
             <link>urn:uuid:5a4b060f-aedf-438f-b85c-3b1ab0c20018</link>
             <guid isPermaLink="false">237f3fcb-4129-4fd3-a677-e3e98dabba1e</guid>
             <pubDate>Tue, 16 Feb 2016 21:22:38 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/voodoo-studio/58fd80f3-bdad-46e4-a720-ebaeb4660097/index.html</link>
             <guid isPermaLink="false">58fd80f3-bdad-46e4-a720-ebaeb4660097</guid>
             <pubDate>Wed, 27 Jan 2016 19:17:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/106d74b0-00e5-42ac-8ad1-728af66db346.jpg">]]></description>
-            <link>https://thegrid.ai/voodoo-studio/db9160dd-50ce-42db-a51d-8f15eb87f3c9/index.html</link>
-            <guid isPermaLink="false">db9160dd-50ce-42db-a51d-8f15eb87f3c9</guid>
-            <pubDate>Wed, 27 Jan 2016 19:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
