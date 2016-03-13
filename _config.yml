@@ -1,20 +1,8 @@
-title: Voodoo Studio ~ opnamestudio ~ live sound
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 1
-favicon: null
 name: Voodoo Studio
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.86394
+typography_spectrum: 0.10803
+title: Voodoo Studio ~ opnamestudio ~ live sound
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8935506062116474
-  lightness: 0.9297872
-  saturation: 0.7702128
-  rhythmicContrast: 1
   brandColors:
     - '#262628'
     - '#e8dede'
     - '#505052'
     - '#c7bebf'
     - '#6f6d70'
-typography_spectrum: 0.75222
+  brandStrength: 0.8935506062116474
+  lightness: 0.9297872
+  saturation: 0.7702128
+  rhythmicContrast: 1
+purpose: []
