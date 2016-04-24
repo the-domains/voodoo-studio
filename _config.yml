@@ -1,6 +1,6 @@
 name: Voodoo Studio
 favicon: null
-layout_spectrum: 0.86394
+layout_spectrum: 0.04636
 typography_spectrum: 0.10803
 title: Voodoo Studio ~ opnamestudio ~ live sound
 collections:
@@ -34,7 +34,7 @@ color:
     - '#505052'
     - '#c7bebf'
     - '#6f6d70'
-  brandStrength: 0.625
+  brandStrength: 0.25
   lightness: 0.9297872
   saturation: 0.1875
   rhythmicContrast: 0.75
