@@ -4,7 +4,7 @@
         <description><![CDATA[Voodoo Studio ~ opnamestudio ~ live sound]]></description>
         <link>https://thegrid.ai/voodoo-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 17:28:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/voodoo-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/voodoo-studio/7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26/index.html</link>
             <guid isPermaLink="false">7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26</guid>
             <pubDate>Tue, 16 Feb 2016 21:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93dee782-ecac-42ca-910d-86acaff62074.jpg">]]></description>
+            <link>https://thegrid.ai/voodoo-studio/17cf7b53-a6ed-46d4-ac01-a4b7c6a5ef6c/index.html</link>
+            <guid isPermaLink="false">17cf7b53-a6ed-46d4-ac01-a4b7c6a5ef6c</guid>
+            <pubDate>Sun, 24 Apr 2016 17:20:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/voodoo-studio/a23b0c27-2460-4541-b211-4b0896f618dd/index.html</link>
             <guid isPermaLink="false">a23b0c27-2460-4541-b211-4b0896f618dd</guid>
             <pubDate>Tue, 16 Feb 2016 22:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avalon & audient preamps]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fa92755-3833-422c-a0de-4157879bf743.png" alt="" title="">]]></description>
-            <link>urn:uuid:5a4b060f-aedf-438f-b85c-3b1ab0c20018</link>
-            <guid isPermaLink="false">237f3fcb-4129-4fd3-a677-e3e98dabba1e</guid>
-            <pubDate>Tue, 16 Feb 2016 21:22:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
