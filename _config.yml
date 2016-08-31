@@ -1,8 +1,35 @@
-name: Voodoo Studio
-favicon: null
-layout_spectrum: 0.04636
 typography_spectrum: 0.0984
-title: Voodoo Studio ~ opnamestudio ~ live sound
+color:
+  brandColors:
+    - '#010310'
+    - '#ab7b65'
+    - '#3a1b23'
+    - '#6b3938'
+    - '#ffffe3'
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.04636
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Voodoo Studio
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: facebook
+    url: >-
+      https://www.facebook.com/Voodoo-Studio-opnamestudio-live-sound-115917756538/
+    type: external
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#010310'
-    - '#ab7b65'
-    - '#3a1b23'
-    - '#6b3938'
-    - '#ffffe3'
-  brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0
+title: Voodoo Studio ~ opnamestudio ~ live sound
 purpose: []
