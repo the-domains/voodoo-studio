@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jeroen Marien
+  email: info@voodoostudio.be
+  url: voodoostudio.be
 name: Voodoo Studio
 cta:
   domain: null
@@ -42,5 +46,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Voodoo Studio ~ opnamestudio ~ live sound
+title: ~ opnamestudio ~ live sound ~
 purpose: []
