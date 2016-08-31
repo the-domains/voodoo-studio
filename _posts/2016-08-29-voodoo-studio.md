@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-29T09:08:01.424Z'
+datePublished: '2016-08-29T09:10:02.126Z'
 sourcePath: _posts/2016-08-29-voodoo-studio.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T09:08:00.942Z'
+dateModified: '2016-08-29T09:10:01.621Z'
 title: ''
 publisher: {}
 description: Voodoo Studio
+hasPage: true
 starred: false
-_type: Blurb
+url: voodoo-studio/index.html
+_type: Article
 
 ---
 **Voodoo Studio**
