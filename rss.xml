@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Voodoo Studio ~ opnamestudio ~ live sound]]></title>
-        <description><![CDATA[Voodoo Studio ~ opnamestudio ~ live sound]]></description>
+        <title><![CDATA[~ opnamestudio ~ live sound ~]]></title>
+        <description><![CDATA[~ opnamestudio ~ live sound ~]]></description>
         <link>https://thegrid.ai/voodoo-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 09:05:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/voodoo-studio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/voodoo-studio/7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26/index.html</link>
             <guid isPermaLink="false">7e2ed67e-b001-4d04-8c9d-5b8f6bfadf26</guid>
             <pubDate>Tue, 16 Feb 2016 21:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gearlist]]></title>
+            <description><![CDATA[<article><h1>Gearlist</h1><p> RME UFX - 24 channel soundcard Neve 1073 dpx - dual channel preamp & eq Avalon 737 - tube preamp & DI 3x Telefunken V72 - vintage tube preamp from the 60s 5x TAB v376 - vintage preamps from the 60s Audient asp008 - 8 channel preamp Universal Audio Solo 610 tube preamp & DI  Adam A5x studio monitors Adam Sub7 subwoofer  A-Designs The Nail - mastering grade dual channel compressor 2x DBX 160vu - vintage compressor from the 70s DBX 165vu - vintage mono compressor from the 70s Drawmer compressors Neumann w495 - vintage stereo EQ TAB w395 - vintage mono eq  Akg C414 Oktava mk012 Beyerdynamic M201 Shure sm57 Shure beta57 Sennheiser md441 Sennheiser md421 Sennheiser 604 Audix D6 Electro voice nd96  Sennheiser hd280 headphones  Beyerdynamic dt770 pro headphones  AKG K701 reference headphones OZ Audio q-mix - 6 channel headphone amp  Strymon Timeline delay Strymon Bluesky reverb Orange Dark Terror guitar amp Fender Champion guitar amp</p></article>]]></description>
+            <link>https://thegrid.ai/voodoo-studio/f62c10bf-6f8a-45c6-bf01-7b397c036709/index.html</link>
+            <guid isPermaLink="false">f62c10bf-6f8a-45c6-bf01-7b397c036709</guid>
+            <pubDate>Mon, 29 Aug 2016 09:04:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/voodoo-studio/cff9f4fe-7479-4e54-b698-e5108db6c3b9/index.html</link>
             <guid isPermaLink="false">cff9f4fe-7479-4e54-b698-e5108db6c3b9</guid>
             <pubDate>Sat, 19 Mar 2016 21:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>GearlistNeve 1073 dpxAvalon 737Telefunken V72TAB v376Audient asp008A-Designs The NailDBX 160vuDBX 165vuDrawmer compressorsAkg C414Oktava mk012Beyerdynamic M201Shure sm57Shure beta57Sennheiser md441Sennheiser md421Sennheiser hd280Beyerdynamic dt770 proStrymon TimelineStrymon Bluesky</p>]]></description>
-            <link>https://thegrid.ai/voodoo-studio/f62c10bf-6f8a-45c6-bf01-7b397c036709/index.html</link>
-            <guid isPermaLink="false">f62c10bf-6f8a-45c6-bf01-7b397c036709</guid>
-            <pubDate>Sat, 19 Mar 2016 21:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
