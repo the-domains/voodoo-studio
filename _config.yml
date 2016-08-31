@@ -36,6 +36,9 @@ navigation:
   - name: Gearlist
     id: f62c10bf-6f8a-45c6-bf01-7b397c036709
     type: content
+  - name: contact
+    id: 7b6cdfca-f059-4c5f-b997-e7cddb44e512
+    type: content
 favicon: null
 collections:
   - index:
