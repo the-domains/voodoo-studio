@@ -29,16 +29,16 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: facebook
-    url: >-
-      https://www.facebook.com/Voodoo-Studio-opnamestudio-live-sound-115917756538/
-    type: external
   - name: Gearlist
     id: f62c10bf-6f8a-45c6-bf01-7b397c036709
     type: content
   - name: contact
     id: 7b6cdfca-f059-4c5f-b997-e7cddb44e512
     type: content
+  - name: facebook
+    url: >-
+      https://www.facebook.com/Voodoo-Studio-opnamestudio-live-sound-115917756538/
+    type: external
 favicon: null
 collections:
   - index:
