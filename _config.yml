@@ -39,6 +39,9 @@ navigation:
     url: >-
       https://www.facebook.com/Voodoo-Studio-opnamestudio-live-sound-115917756538/
     type: external
+  - name: prices
+    id: cec39dfa-0bb6-487c-b19c-1b0f8b55ef71
+    type: content
 favicon: null
 collections:
   - index:
